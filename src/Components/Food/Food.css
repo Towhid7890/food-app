@@ -1,0 +1,18 @@
+.cart-body{
+    margin-left: 20px;
+    width: 70%;
+    
+}
+.cart-style{
+    width: 25%;
+    height: 350px;
+    float: left;
+    margin-left: 10px;
+    border: 2px solid lightgray;
+    margin-bottom: 10px;
+    overflow: hidden;
+    margin: 20px;
+}
+.img-style{
+    height: 150px;
+}
